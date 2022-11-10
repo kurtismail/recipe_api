@@ -1,5 +1,4 @@
 {
-  "homepage": "http://kurtismail.github.io/recipe_api_project",
   "name": "recipe-app-starter",
   "version": "0.1.0",
   "private": true,
@@ -15,9 +14,8 @@
     "react-router-dom": "6.3",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.6",
-    "web-vitals": "^2.1.4",
-    "predeploy":"yarn run gh-pages",
-    "deploy": "gh-pages -d build"
+    "web-vitals": "^2.1.4"
+
   },
   "scripts": {
     "start": "react-scripts start",
