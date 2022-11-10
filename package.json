@@ -1,6 +1,6 @@
 {
   "homepage": "http://kurtismail.github.io/recipe_api",
-  "name": "recipe-app-starter",
+  "name": "recipe_api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
