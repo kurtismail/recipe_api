@@ -1,5 +1,4 @@
 {
-  "homepage": "http://kurtismail.github.io/recipe_api",
   "name": "recipe_api",
   "version": "0.1.0",
   "private": true,
@@ -16,15 +15,12 @@
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
-
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy":"yarn run gh-pages",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
