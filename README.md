@@ -97,4 +97,4 @@ Build a Recipe App using ReactJS.
 
 - [Assets Folder](./assets/)
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+**<p align="center">&#9786; the end &#9997;</p>**
